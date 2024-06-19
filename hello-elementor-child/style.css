@@ -10,3 +10,16 @@ Text Domain: hello-elementor-child
 License: GNU General Public License or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
+
+.cover-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.deer-test-details {
+    margin-top: 20px;
+}
+
+.deer-test-details p {
+    margin-bottom: 10px;
+}
